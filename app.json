@@ -5,7 +5,8 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "finding the simple interest"
   },
   "name": "MyReactNative"
 }
